@@ -1,6 +1,8 @@
 # Hallo Everyone! 
 
-My name is  **Muhammad Ab'Jani**.I am used to be called **Icappucino**
+My name is  **Muhammad Ab'Jani**.
+
+I am used to be called **Icappucino**
 
 I'm Interest a Web Developer, Mobile Apps Developer, and Photo/Video Editor.
 
