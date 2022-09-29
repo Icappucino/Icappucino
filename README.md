@@ -14,12 +14,24 @@ I'm Interest a Web Developer, Mobile Apps Developer, and Photo/Video Editor.
 &#8811; UML Design </br>
 
 📫 You can follow my Official Account :
-- [Linkedin](https://www.linkedin.com/in/afjani23)
-- [Telegram](https://t.me/Icappucino7)
-- [Instagram](https://instagram.com/icappucino_)
-- [Collage-Instagram](https://instagram.com/collage_afjani)
 - [Showcase](https://www.showwcase.com/icappucino)
-- [2nd Github](https://github.com/Icoffee7)
+
+  <a href="https://www.linkedin.com/in/afjani23" target="_blank">
+    <img alt="LinkedIn" src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" />
+  </a> 
+  <a href="https://instagram.com/icappucino_" target="_blank">
+    <img alt="Instagram" src="https://img.shields.io/badge/instagram-%23E4405F.svg?&style=for-the-badge&logo=instagram&logoColor=white" />
+  </a>
+    <a href="https://t.me/Icappucino7" target="_blank">
+    <img alt="Instagram" src="https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white" />
+  </a>
+     <a href="https://linktr.ee/icappucino" target="_blank">
+    <img alt="Instagram" src="https://img.shields.io/badge/linktree-39E09B?style=for-the-badge&logo=linktree&logoColor=white" />
+  </a>
+      <a href="https://twitter.com/Icappucino7" target="_blank">
+    <img alt="Instagram" src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" />
+  </a>
+
 
  </p>
  <h3>⚡ My Programming Languages</h3>
@@ -31,13 +43,9 @@ I'm Interest a Web Developer, Mobile Apps Developer, and Photo/Video Editor.
  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vuejs/vuejs-original-wordmark.svg" alt="vuejs" width="40" height="40"/>
  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40" />
  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40" />
- <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bootstrap/bootstrap-original-wordmark.svg" alt="html5" width="40" height="40" />
-          
-          
-          
-  </p>
-          
-          
+ <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bootstrap/bootstrap-original-wordmark.svg" alt="html5" width="40" height="40" />       
+ </p>
+ 
           
 
 
