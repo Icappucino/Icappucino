@@ -1,21 +1,19 @@
-# Hallo Everyone! 
+# Hallo Everyone! 👋
 
-My name is  **Muhammad Ab'Jani**.
-
-I am used to be called **Icappucino**
+😄 I am used to be called **Icappucino**
 
 I'm Interest a Web Developer, Mobile Apps Developer, and Photo/Video Editor.
 
 ---
 
-I have some other abilities on 
+🌱 I have some other abilities on 
 
 - Reinstall Windows and Linux OS
 - Mikrotik
 - Architecture Computer
 - UML Design
 
-You can follow my Official Account :
+📫 You can follow my Official Account :
 - [Linkedin](https://www.linkedin.com/in/afjani23)
 - [Telegram](https://t.me/Icappucino7)
 - [Instagram](https://instagram.com/icappucino_)
@@ -24,7 +22,7 @@ You can follow my Official Account :
 - [2nd Github](https://github.com/Icoffee7)
 
  </p>
- <h3>My Programming Languages</h3>
+ <h3>⚡ My Programming Languages</h3>
  <p align="left" style="display:flex">
   <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> 
   <a href="https://www.php.net" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/php/php-original.svg" alt="php" width="40" height="40"/> </a> 
