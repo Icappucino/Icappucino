@@ -8,10 +8,10 @@ I'm Interest a Web Developer, Mobile Apps Developer, and Photo/Video Editor.
 
 🌱 I have some other abilities on 
 
-- Reinstall Windows and Linux OS
-- Mikrotik
-- Architecture Computer
-- UML Design
+&#8811; Reinstall Windows and Linux OS </br>
+&#8811; Mikrotik </br>
+&#8811; Architecture Computer </br>
+&#8811; UML Design </br>
 
 📫 You can follow my Official Account :
 - [Linkedin](https://www.linkedin.com/in/afjani23)
