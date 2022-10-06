@@ -14,7 +14,6 @@ I'm Interest a Web Developer, Mobile Apps Developer, and Photo/Video Editor.
 &#8811; UML Design </br>
 
 📫 You can follow my Official Account :
-- [Showcase](https://www.showwcase.com/icappucino)
 
   <a href="https://www.linkedin.com/in/afjani23" target="_blank">
     <img alt="LinkedIn" src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" />
