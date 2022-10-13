@@ -2,7 +2,7 @@
 
 😄 I am used to be called **Icappucino**
 
-I'm Interest a Web Developer, Mobile Apps Developer, and Photo/Video Editor.
+I'm Interest a Web Developer, and Photo/Video Editor.
 
 ---
 
