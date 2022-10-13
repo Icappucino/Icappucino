@@ -54,7 +54,7 @@ I'm Interest a Web Developer, Mobile Apps Developer, and Photo/Video Editor.
      <img alt="laravel" src="https://img.shields.io/badge/Laravel-FF2D20?style=for-the-badge&logo=laravel&logoColor=white" />
    </p>
  </p>
- <h3> Database </h3>
+ <h3> 📝 Database </h3>
    <p style="display:flex">
      <img alt="mySQL" src="https://img.shields.io/badge/MySQL-00000F?style=for-the-badge&logo=mysql&logoColor=white" />
      <img alt="MongoDB" src="https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white" />
