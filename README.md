@@ -61,6 +61,7 @@
      <img alt="MongoDB" src="https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white" />
    </p>
 
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=abjanii&label=Profile%20views&color=0e75b6&style=flat" alt="abjanii" /> </p>
 <p align="left">
 <a href="https://github.com/Abjanii">
   <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=Abjanii&show_icons=true&theme=algolia&include_all_commits=true&count_private=true"/>
