@@ -7,11 +7,9 @@
 ---
 
 <p align="left">
-<a href="https://github.com/Abjanii">![myPortfolio](https://user-images.githubusercontent.com/93023359/196519116-c5f3d223-3e5a-4f74-bc24-da4294787c5e.jpeg)
-
-  <img height="120em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=Abjanii&show_icons=true&theme=algolia&include_all_commits=true&count_private=true"/>
-  <img height="120em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=Abjanii&layout=compact&langs_count=8&theme=algolia"/>
-  <img height="120em" src="https://github-readme-streak-stats.herokuapp.com/?user=abjanii&theme=algolia"/>
+  <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=Abjanii&show_icons=true&theme=algolia&include_all_commits=true&count_private=true"/>
+  <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=Abjanii&layout=compact&langs_count=8&theme=algolia"/>
+  <img height="180em" src="https://github-readme-streak-stats.herokuapp.com/?user=abjanii&theme=algolia"/>
 </a>
 </p>
 
