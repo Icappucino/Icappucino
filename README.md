@@ -23,7 +23,7 @@
   <a href="https://instagram.com/icappucino_" target="_blank">
     <img alt="Instagram" src="https://img.shields.io/badge/instagram-%23E4405F.svg?&style=for-the-badge&logo=instagram&logoColor=white" />
   </a>
-    <a href="https://www.upwork.com/freelancers/IceCoffee" target="_blank">
+    <a href="https://www.upwork.com/freelancers/5bd16753" target="_blank">
     <img alt="Upwork" src="https://img.shields.io/badge/UpWork-6FDA44?style=for-the-badge&logo=Upwork&logoColor=white" />
   </a>
     <a href="https://t.me/Icappucino7" target="_blank">
