@@ -15,7 +15,10 @@
 
 ---
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=abjanii&label=Profile%20views&color=0e75b6&style=flat" alt="abjanii" /></p>
+<p align="left">
+<img src="https://komarev.com/ghpvc/?username=abjanii&label=Profile%20views&color=0e75b6&style=flat" alt="abjanii" />
+<img src="https://img.shields.io/github/followers/abjanii.svg?style=social&label=Follow&maxAge=2592000" alt="abjanii" />
+</p>
 
 🌱 I have some other abilities on 
 
