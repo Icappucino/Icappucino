@@ -7,10 +7,11 @@
 ---
 
 <p align="left">
-<a href="https://github.com/Abjanii">
-  <img height="135em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=Abjanii&show_icons=true&theme=algolia&include_all_commits=true&count_private=true"/>
-  <img height="135em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=Abjanii&layout=compact&langs_count=8&theme=algolia"/>
-  <img height="135em" src="https://github-readme-streak-stats.herokuapp.com/?user=abjanii&theme=algolia"/>
+<a href="https://github.com/Abjanii">![myPortfolio](https://user-images.githubusercontent.com/93023359/196519116-c5f3d223-3e5a-4f74-bc24-da4294787c5e.jpeg)
+
+  <img height="120em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=Abjanii&show_icons=true&theme=algolia&include_all_commits=true&count_private=true"/>
+  <img height="120em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=Abjanii&layout=compact&langs_count=8&theme=algolia"/>
+  <img height="120em" src="https://github-readme-streak-stats.herokuapp.com/?user=abjanii&theme=algolia"/>
 </a>
 </p>
 
@@ -79,6 +80,12 @@
 </p>
 
 ---
+<h5>📍Last Project </h5>
 
+<p style="display:flex">
+<img height="120em" src="https://user-images.githubusercontent.com/93023359/196518636-96e208a0-144e-4406-8c6b-ba1203e8fff2.jpeg"> &nbsp
+<img height="120em" src="https://user-images.githubusercontent.com/93023359/196519290-144885bd-8326-4ce0-b510-f3904e0ed855.jpeg"> &nbsp
+<img height="120em" src="https://user-images.githubusercontent.com/93023359/196520185-5316bce7-aa23-427a-84d2-ce9efbbd607a.jpeg">
+</p>
 
 
