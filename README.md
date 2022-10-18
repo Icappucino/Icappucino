@@ -78,7 +78,7 @@
 </p>
 
 ---
-<h5>📍Last Project </h5>
+<h5>📍Last Project (always updated) </h5>
 
 <p style="display:flex">
 <img height="120em" src="https://user-images.githubusercontent.com/93023359/196518636-96e208a0-144e-4406-8c6b-ba1203e8fff2.jpeg"> &nbsp
