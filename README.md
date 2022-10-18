@@ -1,6 +1,6 @@
 <p align="center"># Hallo Everyone! 👋</p>
 
-<p align="center">😄 I am used to be called **Icappucino**</p>
+<p align="center">😄 I am used to be called Icappucino</p>
 
 <p align="center">🔭 I'm Interest a Web Developer,Mobile App Developer and Photo/Video Editor.</p>
 
