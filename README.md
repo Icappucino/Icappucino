@@ -1,8 +1,18 @@
-# Hallo Everyone! 👋
+<p align="center"># Hallo Everyone! 👋</p>
 
-😄 I am used to be called **Icappucino**
+<p align="center">😄 I am used to be called **Icappucino**</p>
 
-🔭 I'm Interest a Web Developer,Mobile App Developer and Photo/Video Editor.
+<p align="center">🔭 I'm Interest a Web Developer,Mobile App Developer and Photo/Video Editor.</p>
+
+---
+
+<p align="left">
+<a href="https://github.com/Abjanii">
+  <img height="135em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=Abjanii&show_icons=true&theme=algolia&include_all_commits=true&count_private=true"/>
+  <img height="135em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=Abjanii&layout=compact&langs_count=8&theme=algolia"/>
+  <img height="135em" src="https://github-readme-streak-stats.herokuapp.com/?user=abjanii&theme=algolia"/>
+</a>
+</p>
 
 ---
 
@@ -70,11 +80,5 @@
 
 ---
 
-<p align="left">
-<a href="https://github.com/Abjanii">
-  <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=Abjanii&show_icons=true&theme=algolia&include_all_commits=true&count_private=true"/>
-  <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=Abjanii&layout=compact&langs_count=8&theme=algolia"/>
-  <img height="180em" src="https://github-readme-streak-stats.herokuapp.com/?user=abjanii&theme=algolia"/>
-</a>
-</p>
+
 
