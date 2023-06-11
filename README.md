@@ -18,7 +18,7 @@
 ---
 
 <p align="left">
-<img src="https://komarev.com/ghpvc/?username=abjanii&label=Profile%20views&color=0e75b6&style=flat" alt="abjanii" />
+<img src="https://komarev.com/ghpvc/?username=icappucino &label=Profile%20views&color=0e75b6&style=flat" alt="abjanii" />
 </p>
 
 🌱 I have some other abilities on 
