@@ -2,7 +2,7 @@
 
 <p align="center">😄 I am used to be called Icappucino</p>
 
-<p align="center">🔭 I'm Interest a Web Developer,and Cloud Engineer .</p>
+<p align="center">🔭 I'm Interest a Web Developer, Computer Network Engineering and Cloud Engineer .</p>
 
 ---
 
