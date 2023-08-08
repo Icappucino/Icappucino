@@ -17,11 +17,11 @@
 
 ---
 
-<p align="left">
+<p align="right">
 <img src="https://komarev.com/ghpvc/?username=abjanii&label=Profile%20views&color=0e75b6&style=flat" alt="abjanii" />
 </p>
 
-🌱 I have some other abilities on 
+<h3 align="center">🌱 Other abilities </h3>
 
 &#8811; Reinstall Windows and Linux OS </br>
 &#8811; Mikrotik </br>
@@ -45,19 +45,22 @@
 <img height="135em" width="230em" src="https://user-images.githubusercontent.com/93023359/196518636-96e208a0-144e-4406-8c6b-ba1203e8fff2.jpeg"> &nbsp;
 <img height="135em" width="230em" src="https://user-images.githubusercontent.com/93023359/196519290-144885bd-8326-4ce0-b510-f3904e0ed855.jpeg"> &nbsp;
 <img height="135em" width="230em" src="https://user-images.githubusercontent.com/93023359/196520185-5316bce7-aa23-427a-84d2-ce9efbbd607a.jpeg"> &nbsp;
+<img height="135em" width="230em" src="https://github.com/Icappucino/Icappucino/assets/93023359/e0b5b470-f82d-472a-ac5d-ddb45095db4c.jpeg"> &nbsp;
 </p>
 <p style="display:flex">
 <img height="135em" width="230em" src="https://user-images.githubusercontent.com/93023359/204086008-9e2778bf-9712-43ff-aba1-33e9bf75b431.jpeg"> &nbsp;
 <img height="135em" width="230em" src="https://github.com/Icappucino/Icappucino/assets/93023359/338f6ed0-943c-4639-aedd-30e2de5b6583.jpeg"> &nbsp;
-<img height="135em" width="230em" src="https://github.com/Icappucino/Icappucino/assets/93023359/55cfdf1f-cdf4-41be-b0a1-2a805ea37fa4.jpeg"> &nbsp;
-</p>
-<p style="display:flex">
 <img height="135em" width="230em" src="https://github.com/Icappucino/Icappucino/assets/93023359/7e40ea4d-483b-4c41-8033-78aae6ad6d65.jpeg"> &nbsp;
-<img height="135em" width="230em" src="https://github.com/Icappucino/Icappucino/assets/93023359/e0b5b470-f82d-472a-ac5d-ddb45095db4c.jpeg"> &nbsp;
+<img height="135em" width="230em" src="https://github.com/Icappucino/Icappucino/assets/93023359/55cfdf1f-cdf4-41be-b0a1-2a805ea37fa4.jpeg"> &nbsp;
 </p>
 
 --- 
 
 <h3 align="center"> ☁️ Cloud </h3>
 
-
+<p style="display:flex">
+<img height="135em" width="230em" src="https://github.com/Icappucino/Icappucino/assets/93023359/7e43fba8-d605-406f-b2a8-eb1843486a5f.jpeg"> &nbsp;
+<img height="135em" width="230em" src="https://github.com/Icappucino/Icappucino/assets/93023359/b8598b72-0f02-4dbc-aa82-f454e54470d1.jpeg"> &nbsp;
+<img height="135em" width="230em" src="https://github.com/Icappucino/Icappucino/assets/93023359/d8ee1177-1943-4676-9638-5d7c3d8895b2.jpeg"> &nbsp;
+<img height="135em" width="230em" src="https://github.com/Icappucino/Icappucino/assets/93023359/a766d9ef-c5a1-44d5-b263-dd8e9f55b0a6.jpeg"> &nbsp;
+</p>
