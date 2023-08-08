@@ -39,7 +39,7 @@
 
 ---
 <h5>📍Most Recent </h5>
-<h2 align="center"> 🖼️ Gallery Fullstack </h2>
+<h3 align="center"> 🖼️ Gallery Fullstack </h3>
 
 <p style="display:flex">
 <img height="135em" width="230em" src="https://user-images.githubusercontent.com/93023359/196518636-96e208a0-144e-4406-8c6b-ba1203e8fff2.jpeg"> &nbsp;
@@ -58,6 +58,6 @@
 
 --- 
 
-<h2 align="center"> 🖼️ Gallery Cloud </h2>
+<h3 align="center"> ☁️ Cloud </h3>
 
 
