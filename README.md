@@ -39,20 +39,25 @@
 
 ---
 <h5>📍Most Recent </h5>
+<h2 align="center"> 🖼️ Gallery Fullstack </h2>
 
 <p style="display:flex">
-<img height="120em" src="https://user-images.githubusercontent.com/93023359/196518636-96e208a0-144e-4406-8c6b-ba1203e8fff2.jpeg"> &nbsp
-<img height="120em" src="https://user-images.githubusercontent.com/93023359/196519290-144885bd-8326-4ce0-b510-f3904e0ed855.jpeg"> &nbsp
-<img height="120em" src="https://user-images.githubusercontent.com/93023359/196520185-5316bce7-aa23-427a-84d2-ce9efbbd607a.jpeg"> &nbsp
-  </br>
-  </br>
-<img height="120em" src="https://user-images.githubusercontent.com/93023359/204086008-9e2778bf-9712-43ff-aba1-33e9bf75b431.jpeg"> &nbsp
-<img height="120em" src="https://github.com/Icappucino/Icappucino/assets/93023359/338f6ed0-943c-4639-aedd-30e2de5b6583.jpeg"> &nbsp
-<img height="120em" src="https://github.com/Icappucino/Icappucino/assets/93023359/55cfdf1f-cdf4-41be-b0a1-2a805ea37fa4.jpeg"> &nbsp
-  
-
-
+<img height="135em" width="230em" src="https://user-images.githubusercontent.com/93023359/196518636-96e208a0-144e-4406-8c6b-ba1203e8fff2.jpeg"> &nbsp;
+<img height="135em" width="230em" src="https://user-images.githubusercontent.com/93023359/196519290-144885bd-8326-4ce0-b510-f3904e0ed855.jpeg"> &nbsp;
+<img height="135em" width="230em" src="https://user-images.githubusercontent.com/93023359/196520185-5316bce7-aa23-427a-84d2-ce9efbbd607a.jpeg"> &nbsp;
+</p>
+<p style="display:flex">
+<img height="135em" width="230em" src="https://user-images.githubusercontent.com/93023359/204086008-9e2778bf-9712-43ff-aba1-33e9bf75b431.jpeg"> &nbsp;
+<img height="135em" width="230em" src="https://github.com/Icappucino/Icappucino/assets/93023359/338f6ed0-943c-4639-aedd-30e2de5b6583.jpeg"> &nbsp;
+<img height="135em" width="230em" src="https://github.com/Icappucino/Icappucino/assets/93023359/55cfdf1f-cdf4-41be-b0a1-2a805ea37fa4.jpeg"> &nbsp;
+</p>
+<p style="display:flex">
+<img height="135em" width="230em" src="https://github.com/Icappucino/Icappucino/assets/93023359/7e40ea4d-483b-4c41-8033-78aae6ad6d65.jpeg"> &nbsp;
+<img height="135em" width="230em" src="https://github.com/Icappucino/Icappucino/assets/93023359/e0b5b470-f82d-472a-ac5d-ddb45095db4c.jpeg"> &nbsp;
 </p>
 
+--- 
+
+<h2 align="center"> 🖼️ Gallery Cloud </h2>
 
 
